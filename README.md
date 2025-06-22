@@ -68,7 +68,6 @@ cd multi-agent-researcher
 1.  **Start the Frontend Application:**
     Open a *new* terminal, navigate to the `frontend` directory:
     ```bash
-    cd frontend
     streamlit run app.py
     ```
     This will open the Streamlit application in your web browser (typically at `http://localhost:8501`).
